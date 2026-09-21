@@ -6,6 +6,15 @@ It is 100% compatible with the **KDE Connect** protocol, allowing seamless inter
 
 ---
 
+## 🚀 Downloads & Releases
+
+Get the latest production-ready versions of SyncBridge for both macOS and Android:
+
+- **macOS App (`SyncBridge.dmg`):** [Download Latest macOS Release](https://github.com/Anas15102/SyncBridge/releases/latest/download/SyncBridge.dmg)
+- **Android App (`SyncBridge.apk`):** [Download Latest Android APK](https://github.com/Anas15102/SyncBridge/releases/latest/download/SyncBridge.apk)
+
+---
+
 ## Project Structure
 
 - **`SyncBridge.app/`** — The packaged, production-ready macOS Dynamic Notch application (featuring the obsidian/liquid glass UI, drag-and-drop file beaming, live clipboard sync, and custom branding).
