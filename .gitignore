@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+Caches/
+DerivedData/
+.build/
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.apt_generated
+.classpath
+.project
+.settings/
+bin/
+captures/
+.externalNativeBuild
+.cxx
+
+# Build outputs & references
+build_output/
+*.dmg
+SyncBridge.app/
+reference-repos/
+
+android-app/gradle-bin.zip
+android-app/gradle8.2.zip
+android-app/gradle/wrapper/gradle-8.2/

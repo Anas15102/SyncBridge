@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SyncBridge</string>
+    <string name="welcome_message">Welcome to SyncBridge!</string>
+    <string name="pair_request">Pairing request from %1$s</string>
+    <string name="clipboard_sync">Clipboard sync is enabled</string>
+    <string name="file_transfer">File transfer in progress</string>
+    <string name="accessibility_description">SyncBridge requires Accessibility Service to monitor and sync your clipboard in the background on newer versions of Android. This enables seamless copying and pasting between Mac and Android.</string>
+</resources>

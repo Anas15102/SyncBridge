@@ -1,0 +1,4 @@
+files:
+  - source: /SyncBridge/Localizable.xcstrings
+    translation: /SyncBridge/Localizable.xcstrings
+    multilingual: 1

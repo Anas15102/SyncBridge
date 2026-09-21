@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:new test}/macos-app",
+            "name": "Debug SyncBridge (macos-app)",
+            "target": "SyncBridge",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug SyncBridge (macos-app)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:new test}/macos-app",
+            "name": "Release SyncBridge (macos-app)",
+            "target": "SyncBridge",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release SyncBridge (macos-app)"
+        }
+    ]
+}
